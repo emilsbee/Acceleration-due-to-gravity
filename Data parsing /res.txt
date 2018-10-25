@@ -1,0 +1,1 @@
+Gravity: 9.417901186732056, Length: 0.205, Trial: 1, Average: 0.927
